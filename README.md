@@ -5,5 +5,5 @@ Archive for some CTF (Capture The Flag) challenges that made by me (a.k.a kilome
 Any comments or suggestion are welcome 🙏
 
 
-Hope you can enjoy this CTF journey ^^!
+Hope we can enjoy this CTF journey ^^!
 
